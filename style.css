@@ -1,0 +1,96 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+        <meta name="author" content="WowThemez">
+       
+        <title>Alliancefxtrade || homepage</title>
+        
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+
+        <!-- Font Awesome Icons CSS -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- Themify Icons CSS -->
+        <link rel="stylesheet" href="css/themify-icons.css">
+        <!-- Elegant Font Icons CSS -->
+        <link rel="stylesheet" href="css/elegant-font-icons.css">
+        <!-- Elegant Line Icons CSS -->
+        <link rel="stylesheet" href="css/elegant-line-icons.css">
+		<!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- animate CSS -->
+        <link rel="stylesheet" href="css/animate.min.css">
+		<!-- Venobox CSS -->
+        <link rel="stylesheet" href="css/venobox/venobox.css">
+		<!-- OWL-Carousel CSS -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <!-- Nivo Slider CSS -->
+        <link rel="stylesheet" href="css/nivo-slider.css">
+        <!-- Slick Nav CSS -->
+        <link rel="stylesheet" href="css/slicknav.min.css">
+		<!-- Main CSS -->
+        <link rel="stylesheet" href="css/main.css">
+		<!-- Responsive CSS -->
+        <link rel="stylesheet" href="css/responsive.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+
+
+
+
+
+
+
+
+   <footer class="footer_section">
+			<div class="container">
+				<div class="copyright">&copy; 2018 Digital-currency Powered by Alliancefxtrade</div>
+			</div>
+		</footer><!-- /.footer_section -->
+        
+		<a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
+	
+		<!-- jQuery Lib -->
+		<script src="js/vendor/jquery-1.12.4.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<!-- Tether JS -->
+		<script src="js/vendor/tether.min.js"></script>
+        <!-- Counterup JS -->
+		<script src="js/vendor/jquery.counterup.min.js"></script>
+        <!-- waypoints js -->
+		<script src="js/vendor/jquery.waypoints.v2.0.3.min.js"></script>
+        <!-- Imagesloaded JS -->
+        <script src="js/vendor/imagesloaded.pkgd.min.js"></script>
+		<!-- OWL-Carousel JS -->
+		<script src="js/vendor/owl.carousel.min.js"></script>
+		<!-- Nivo Slider JS -->
+		<script src="js/vendor/jquery.nivo.slider.pack.js"></script>
+		<!-- isotope JS -->
+		<script src="js/vendor/jquery.isotope.v3.0.2.js"></script>
+		<!-- Smooth Scroll JS -->
+		<script src="js/vendor/smooth-scroll.min.js"></script>
+		<!-- venobox JS -->
+		<script src="js/vendor/venobox.min.js"></script>
+        <!-- ajaxchimp JS -->
+        <script src="js/vendor/jquery.ajaxchimp.min.js"></script>
+        <!-- Slick Nav JS -->
+        <script src="js/vendor/jquery.slicknav.min.js"></script>
+        <!-- Webticker JS -->
+        <script src="js/vendor/jquery.webticker.min.js"></script>
+        <!-- Wow JS -->
+        <script src="js/vendor/wow.min.js"></script>
+		<!-- Contact JS -->
+		<script src="js/contact.js"></script>
+		<!-- Main JS -->
+		<script src="js/main.js"></script>
+
+    </body>
+</html>
