@@ -1,17 +1,5 @@
-<!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="">
-        <meta name="author" content="WowThemez">
-       
-        <title>Alliancefxtrade || homepage</title>
-        
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+/*
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 
         <!-- Font Awesome Icons CSS -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -39,22 +27,9 @@
         <link rel="stylesheet" href="css/responsive.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    </head>
-    <body>
-
-
-
-
-
-
-
-
-   <footer class="footer_section">
-			<div class="container">
-				<div class="copyright">&copy; 2018 Digital-currency Powered by Alliancefxtrade</div>
-			</div>
-		</footer><!-- /.footer_section -->
-        
+    
+    
+    
 		<a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
 	
 		<!-- jQuery Lib -->
@@ -92,5 +67,4 @@
 		<!-- Main JS -->
 		<script src="js/main.js"></script>
 
-    </body>
-</html>
+    </*
